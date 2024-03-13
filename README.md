@@ -7,7 +7,7 @@
 
 
 ## Github Stats 📊
-![Awi's github stats](https://github-readme-stats.vercel.app/api?username=awiawi&show_icons=true&title_color=03FFF7&icon_color=03FFF7&text_color=FFFFFF&bg_color=1E1E1E)
+![Awi's github stats](https://github-readme-stats.vercel.app/api?username=awiawii&show_icons=true&title_color=03FFF7&icon_color=03FFF7&text_color=FFFFFF&bg_color=1E1E1E)
 
 ## You can reach me at 🤝
 <p align="left">
